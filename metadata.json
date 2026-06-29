@@ -1,0 +1,11 @@
+{
+  "name": "Remix: ratan ai",
+  "description": "A real-time, voice-to-voice holographic companion named Myraa, using the Gemini Live API for low-latency audio stream processing and visual holographic projections.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
